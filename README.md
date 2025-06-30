@@ -5,7 +5,7 @@ Estudante apaixonado por programação
 ## Sobre Mim
 
 -  **Educação:** 4º ano do curso Técninco em Informática integrado ao Ensino Médio no IFRS - Campus Feliz
--  **Contato:** gabrielkteixeira@gmail.com 
+-  **Contato:** gabriel.teixeira@aluno.feliz.ifrs.edu.br
 
 ## Tecnologias e Ferramentas
 
